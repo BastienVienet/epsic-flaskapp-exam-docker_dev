@@ -18,6 +18,9 @@ RUN apt-get install npm -y
 # Install nodemon
 RUN npm install -g nodemon
 
+# Note : You can run all of the "RUN" command in one line.
+# I separated them for some clarification
+
 # Port 5000
 EXPOSE 5000
 
