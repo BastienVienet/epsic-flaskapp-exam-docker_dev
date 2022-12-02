@@ -1,7 +1,7 @@
 FLASK APP
 ===
 
-> Web app made with Flask, which brightens up your day by delivering you a nice Cat Gif
+> Web app made with Flask, which brightens up your day by delivering you a nice meme Gif
 
 - Installation instructions :
     - Source code should be included in folder: /usr/src/app
@@ -21,3 +21,5 @@ Docker Curriculum
 Follow the curriculum on [docker-curriculum.com](https://docker-curriculum.com/)
 
 Changes made for simplicity of current Docker class
+
+Note : This a the repo for the dev image for docker.
