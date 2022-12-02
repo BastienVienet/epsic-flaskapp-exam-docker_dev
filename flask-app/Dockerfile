@@ -1,5 +1,5 @@
 # Install python 
-FROM python:3.8.15-bullseye
+FROM python:3.8.15
 
 # Add app in directory : /usr/src/app
 ADD . /usr/src/app
